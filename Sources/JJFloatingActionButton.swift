@@ -446,7 +446,7 @@ fileprivate extension JJFloatingActionButton {
     }
 
     @objc func overlayViewWasTapped() {
-        close()
+//        close()
     }
 
     func handleSingleActionOrOpen() {
